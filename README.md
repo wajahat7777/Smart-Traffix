@@ -15,3 +15,4 @@ prioritized over other vehicle types to ensure quick passage through the interse
 be challan management for vehicles exceeding the speed limit. Car owners are able to receive
 and pay challan.
 
+--I have used threading for all the fucntions and have used deadlocks implementations to avoid dead locks.
